@@ -9,7 +9,7 @@ body{
     padding: 0%;
     margin: 0%;
 
-    background-color: rgb(167, 78, 144);
+    background-color: rgb(102, 27, 82);
 }
 
 h1{
@@ -19,16 +19,16 @@ h1{
     margin-bottom: 120px;
     text-align: center;
     
-    color: rgb(255, 255, 255);
+    color: rgb(238, 225, 225);
     text-shadow: 5px 5px 3px black;
 
 
 
-    background-color: rgb(106, 207, 194);
+    background-color: rgb(190, 48, 179);
     padding: 7px;
     padding-left: 40px;
     padding-right: 40px;
-    border: 5px solid rgb(8, 161, 149);
+    border: 5px solid rgb(75, 2, 63);
 
     box-shadow: 5px 5px 15px black;
 }
